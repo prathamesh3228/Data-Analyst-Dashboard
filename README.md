@@ -29,3 +29,8 @@ Add Interactivity – Used slicers to filter data dynamically.
 Design the Dashboard – Arranged KPIs and charts into a clean, user-friendly dashboard for business insights.
 
 Business Understanding → Data Collection → Data Cleaning → Data Preparation → Pivot Tables → Charts → Slicers → Dashboard Design & Insights
+
+## Dashboard
+
+<img width="13679" height="13679" alt="Healthcare Report Dashboard" src="https://github.com/user-attachments/assets/65f70d6e-c04b-4e5e-98f9-c5d2eb522f17" />
+
