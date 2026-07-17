@@ -16,7 +16,7 @@ Healthcare Dataset by Prasad22
 ## Credit
 Dataset provided by *Prasad22* on Kaggle.
 
-- Dashborad interaction - <a href="https://github.com/prathamesh3228/Data-Analyst-Dashboard/blob/main/Healthcare%20Report%20Dashboard.jpeg"></a>
+- Dashborad interaction - <a href="https://github.com/prathamesh3228/Data-Analyst-Dashboard/blob/main/Healthcare%20Report%20Dashboard.jpeg">Dashborad interaction</a>
 
 ## Process
 Understand the Business Problem – Identified the business requirements and KPIs.
