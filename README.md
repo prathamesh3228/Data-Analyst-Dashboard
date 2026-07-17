@@ -34,3 +34,14 @@ Business Understanding → Data Collection → Data Cleaning → Data Preparatio
 
 <img width="13679" height="13679" alt="Healthcare Report Dashboard" src="https://github.com/user-attachments/assets/65f70d6e-c04b-4e5e-98f9-c5d2eb522f17" />
 
+## Project Insights
+Identified overall patient volume and admission trends across multiple hospitals.
+Compared patient distribution by age group, gender, and admission type to understand demographic patterns.
+Analyzed average treatment cost and average length of stay to evaluate healthcare efficiency.
+Identified the Top 5 Hospitals and Top 5 Doctors based on patient count.
+Analyzed the distribution of patients across different insurance providers to understand coverage patterns.
+Examined the frequency of different medical conditions and blood groups.
+Built an interactive dashboard with slicers for quick and dynamic data exploration.
+
+## Final Conclusion
+The Healthcare Analytics Dashboard transforms raw healthcare data into meaningful business insights through interactive visualizations and KPI tracking. It enables hospital management to monitor patient trends, evaluate hospital performance, analyze treatment costs, and understand patient demographics. By providing a centralized view of key healthcare metrics, the dashboard supports informed decision-making, improves operational efficiency, and helps optimize resource planning.
